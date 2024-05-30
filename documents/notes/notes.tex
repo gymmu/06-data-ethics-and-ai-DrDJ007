@@ -5,6 +5,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage{csquotes}
+\usepackage{graphicx}
 
 \usepackage[
     backend=biber,
@@ -23,11 +24,12 @@
 \addbibresource{../references/bibliography.bib}
 
 \title{Notizen zum Projekt Data Ethics}
-\author{Name des Autors}
+\author{Gil Buholzer}
 \date{\today}
 
 \begin{document}
 \maketitle
+\newpage
 
 \abstract{
     Dieses Dokument ist eine Sammlung von Notizen zu dem Projekt. Die Struktur innerhalb des
@@ -35,9 +37,20 @@
     werden, und die Teile die man verwenden möchte, kann man direkt in die Hauptdatei ziehen.
 }
 
+\newpage
+
 \tableofcontents
 
+\newpage
+
 \input{section_ai.tex}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1\textwidth]{randomjpeg.jpeg}
+    \caption{random img from the net}
+    \label{fig:random_img}
+\end{figure}
+\newpage
 
 \printbibliography
 
