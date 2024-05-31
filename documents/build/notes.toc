@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Künstliche Intelligenz}{4}{section.1}%
+\contentsline {section}{\numberline {2}Einleitung}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Was ist KI?}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Wie lernt KI?}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Maschinelles Lernen}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Deeplearning}{5}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}KI im Alltag}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Meine Fragen}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Verselbstständigt sich KI?}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fazit}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}KI ilegal nutzen?}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Fazit}{8}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Bedroht KI Jobs?}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Fazit}{10}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Fazit}{11}{section.6}%
