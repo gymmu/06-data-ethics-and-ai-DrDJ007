@@ -6,6 +6,10 @@
 \usepackage{hyperref}
 \usepackage{csquotes}
 \usepackage[a4paper]{geometry}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{lipsum}
 
 \usepackage[
     backend=biber,
@@ -31,27 +35,41 @@
 
 \begin{document}
 
-\maketitle
+\begin{titlepage}
+    \makeatletter
+    \begin{center}
+        {\scshape Gymnasium Muttenz} \vspace{0.5cm}
 
-\abstract{
-    Dies ist eine Vorlage für eine Maturarbeit in der Informatik am Gymnasium Muttenz. Sie dient dazu, die Arbeit schnell und einfach zu starten und sollte einen guten Überblick über die Arbeit bieten.
-}
+        Informatik 2024\vspace{3.5cm}
+
+        {\huge\bfseries \@title}
+
+        \vspace{2cm}
+
+        {\Large\bfseries Wird KI für den Menschen gefährlich?}
+
+        \vspace{3cm}
+
+        {\Large\itshape \@author}
+
+        \vspace{0.5cm}
+
+        Version vom: \@date
+
+    \end{center}
+    \makeatother
+\end{titlepage}
+
 
 \tableofcontents
 
-\chapter{Einleitung}
+\newpage
+\input{chap_introduction.tex}
+\newpage
+\input{chap_question1.tex}
+\newpage
+\input{chap_question2.tex}
 
-Hier kommt die Einführung. Der Text hier sollte eigentlich noch viel länger sein, so das hier nicht so merkwürdige Umbrüche entstehen.
-
-Ich kann weitere Kapitel auch importieren.
-
-\input{chap_methode.tex}
-
-\section{Etwas mit Quellen}
-
-Etwas mit Änderung hier am Ende.
-
-Wenn ich eine Quelle zitieren möchte, kann ich das ganze einfach am Ende des Satzes machen \citep{example}. Oder wie \citet{example} sagt, auch mitten im Text.
 
 \printbibliography
 

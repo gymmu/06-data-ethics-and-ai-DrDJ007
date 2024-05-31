@@ -139,7 +139,7 @@
       \verb https://the-decoder.de/chaosgpt-ist-der-erste-konkrete-versuch-mit-ki-die-menschheit-zu-vernichten/
       \endverb
     \endentry
-    \entry{ai-wikipedia}{misc}{}
+    \entry{ai-wikipedia}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -327,7 +327,7 @@
       \verb https://the-decoder.de/chaosgpt-ist-der-erste-konkrete-versuch-mit-ki-die-menschheit-zu-vernichten/
       \endverb
     \endentry
-    \entry{ai-wikipedia}{misc}{}
+    \entry{ai-wikipedia}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
