@@ -5,6 +5,11 @@
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{lipsum}
 
 \usepackage[
     backend=biber,
@@ -22,22 +27,31 @@
     eprint=false]{biblatex}
 \addbibresource{../references/bibliography.bib}
 
-\title{Notizen zum Projekt Data Ethics}
-\author{Name des Autors}
+\title{Dein beeindruckender Titel}
+\author{Dein Name}
 \date{\today}
+
+
+\parindent=0em
 
 \begin{document}
 \maketitle
 
-\abstract{
-    Dieses Dokument ist eine Sammlung von Notizen zu dem Projekt. Die Struktur innerhalb des
-    Projektes ist gleich ausgelegt wie in der Hauptarbeit, somit kann hier einfach geschrieben
-    werden, und die Teile die man verwenden möchte, kann man direkt in die Hauptdatei ziehen.
-}
+\newpage
+
+\begin{abstract}
+    \textbf{Zusammenfassung:} Dieses Dokument ist eine Sammlung von Notizen zu dem Projekt Data Ethics. Die Struktur innerhalb des Projektes ist gleich ausgelegt wie in der Hauptarbeit, somit kann hier einfach geschrieben werden, und die Teile, die man verwenden möchte, kann man direkt in die Hauptdatei ziehen.
+\end{abstract}
+
+\newpage
 
 \tableofcontents
 
+\newpage
+
 \input{section_ai.tex}
+
+\newpage
 
 \printbibliography
 

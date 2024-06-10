@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'c:/Users/gilap/Informatik/nformatik/06-data-ethics-and-ai-DrDJ007/documents/build/notes.blg'
+[138] biber-MSWIN64:340> INFO - === 
+[179] Biber.pm:419> INFO - Reading 'c:/Users/gilap/Informatik/nformatik/06-data-ethics-and-ai-DrDJ007/documents/build/notes.bcf'
+[347] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[371] Biber.pm:4419> INFO - Processing section 0
+[385] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
+[443] bibtex.pm:1713> INFO - LaTeX decoding ...
+[459] bibtex.pm:1519> INFO - Found BibTeX data source '../references/bibliography.bib'
+[527] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[527] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[527] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[527] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[543] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[543] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[543] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[543] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[555] bbl.pm:660> INFO - Writing 'c:/Users/gilap/Informatik/nformatik/06-data-ethics-and-ai-DrDJ007/documents/build/notes.bbl' with encoding 'UTF-8'
+[560] bbl.pm:763> INFO - Output to c:/Users/gilap/Informatik/nformatik/06-data-ethics-and-ai-DrDJ007/documents/build/notes.bbl
+[560] Biber.pm:131> WARN - online entry 'bedrohte-jobs-kununu' (../references/bibliography.bib): Invalid format '2024-03-070' of date field 'urldate' - ignoring
+[561] Biber.pm:133> INFO - WARNINGS: 1
